@@ -1,3 +1,3 @@
 Objective 1. quick overview of how git and github works. 
-Objective 2. an overview of typical workflows. 
-Objective 3. Demo a branching workflow and explain how to work together. 
+Objective 2. an overview of typical workflows.
+Objective 3. Demo a branching workflow, explain how to work together, and show some best practices on how to avoid conflict. 
